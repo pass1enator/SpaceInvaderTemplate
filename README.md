@@ -1,6 +1,6 @@
 # DAWInvader
 Crear el juego SpaceInvader con la librería Lanterna.
-![alt text](https://github.com/pass1enator/DAWInvader/blob/master/spaceinvaders.png)
+![alt text](https://github.com/pass1enator/SpaceInvaderTemplate/blob/master/spaceinvaders.png)
 1. Crear las clases base:
    Point2D: Coordenada en 2D, usada por la nave, las balas, los muros y los enemigos.
    Bullet: Representa una bala, se mueve por la pantalla en vertical.
@@ -12,4 +12,4 @@ Crear el juego SpaceInvader con la librería Lanterna.
 3 . Añadir animaciones a los enemigos.     
 
 El diagrama de clases simplificado:
-![alt text](https://github.com/pass1enator/DAWInvader/blob/master/Main.png)
+![alt text](https://github.com/pass1enator/SpaceInvaderTemplate/blob/master/Main.png)
