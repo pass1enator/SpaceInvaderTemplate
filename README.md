@@ -5,8 +5,8 @@ Crear el juego SpaceInvader con la librería Lanterna.
 
 
 1. Crear las clases base:
-   Point2D: Coordenada en 2D, usada por la nave, las balas, los muros y los enemigos.
-   Bullet: Representa una bala, se mueve por la pantalla en vertical.
+   - Point2D: Coordenada en 2D, usada por la nave, las balas, los muros y los enemigos.
+   - Bullet: Representa una bala, se mueve por la pantalla en vertical.
 2. Una vez creada las clases base, crear las siguientes clases:
    - Game: Contiene el bucle del juego, leer la entrada, actualizar y dibujar. Formada por una nave, un vector de muros, un jugador y un vector de enemigos, además gestiona el número de "vidas", al quedarse sin "vidas" el juego termina.
    - Ship: Se mueve de forma horizontal, contiene una lista de balas, se encarga de la gestión de las mismas, además ha de comprobar que las balas de los enemigos no colisionan con esta.
